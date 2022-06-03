@@ -10,7 +10,6 @@ def index(name="<<Hello World>>"):
 def extract():
     import scraper
     import analyzer
-    pass
 
 
 @app.route('products')
